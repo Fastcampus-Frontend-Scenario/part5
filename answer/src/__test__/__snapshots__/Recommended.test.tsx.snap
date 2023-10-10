@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Recommended> Positive case Render correctly 1`] = `
+<div>
+  <div
+    class="css-vdet7d"
+    data-testid="recommended"
+  >
+    <p
+      class="css-1fr51j6"
+    >
+      추천 제품들
+    </p>
+    <div
+      class="css-ivrut9"
+      data-testid="recommended-product-list"
+    >
+      <div
+        class="css-lh2kmz"
+      >
+        <div
+          class="css-mrwwdh"
+        >
+          <img
+            alt="Clothes"
+            style="margin-bottom: 4px;"
+          />
+          <div
+            class="css-ocrbbw"
+          >
+            Clothes
+          </div>
+          <div
+            class="css-k5ds6i"
+          >
+            ₩30,000
+          </div>
+        </div>
+      </div>
+      <div
+        class="css-lh2kmz"
+      >
+        <div
+          class="css-mrwwdh"
+        >
+          <img
+            alt="earphone"
+            style="margin-bottom: 4px;"
+          />
+          <div
+            class="css-ocrbbw"
+          >
+            earphone
+          </div>
+          <div
+            class="css-k5ds6i"
+          >
+            ₩100,000
+          </div>
+        </div>
+      </div>
+      <div
+        class="css-lh2kmz"
+      >
+        <div
+          class="css-mrwwdh"
+        >
+          <img
+            alt="notebook"
+            style="margin-bottom: 4px;"
+          />
+          <div
+            class="css-ocrbbw"
+          >
+            notebook
+          </div>
+          <div
+            class="css-k5ds6i"
+          >
+            ₩1,000,000
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
